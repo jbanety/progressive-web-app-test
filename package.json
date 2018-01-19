@@ -1,0 +1,22 @@
+{
+  "name": "@jbanety/progressive-web-app-test",
+  "version": "0.1.0",
+  "description": "Test d'une application type ToDo List",
+  "homepage": "https://github.com/jbanety/progressive-web-app-test",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jbanety/progressive-web-app-test.git"
+  },
+  "devDependencies": {
+    "dot": "^1.1.1",
+    "grunt": "^1.0.1",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-cssmin": "^1.0.2",
+    "grunt-contrib-uglify": "^2.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-etd-dot-compiler": "^0.2.0",
+    "grunt-sass": "^1.2.1",
+    "grunt-sync": "^0.6.2"
+  }
+}
